@@ -3,7 +3,18 @@
 **Course:** Advance Programming Lab-I (Python)  
 **Experiment Number:** 09  
 **Dataset Source:** [Kaggle: Netflix Movies and TV Shows (`shivamb/netflix-shows`)](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-**Language / Core Libraries:** Python 3.12, Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Streamlit
+**Language / Core Libraries:** Python 3.12, Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Streamlit  
+
+[![GitHub Pages](https://img.shields.io/badge/Live_EDA_Report-GitHub_Pages-E50914?style=for-the-badge&logo=github)](https://youngchevalier.github.io/netflix-movies-and-tv-shows-analysis/)
+[![Streamlit Cloud](https://img.shields.io/badge/Deploy-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/deploy?repository=YoungChevalier/netflix-movies-and-tv-shows-analysis&branch=main&mainModule=app.py)
+
+---
+
+## 🌐 Live Deployments & Working Links
+
+- 🌐 **Live EDA HTML Report (GitHub Pages)**: [https://youngchevalier.github.io/netflix-movies-and-tv-shows-analysis/](https://youngchevalier.github.io/netflix-movies-and-tv-shows-analysis/)
+- 🚀 **1-Click Streamlit Cloud Deployment**: [https://share.streamlit.io/deploy?repository=YoungChevalier/netflix-movies-and-tv-shows-analysis&branch=main&mainModule=app.py](https://share.streamlit.io/deploy?repository=YoungChevalier/netflix-movies-and-tv-shows-analysis&branch=main&mainModule=app.py)
+- 💻 **Local Dashboard**: `http://localhost:8501` (when running `streamlit run app.py`)
 
 ---
 
